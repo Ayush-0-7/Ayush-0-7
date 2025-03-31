@@ -1,14 +1,14 @@
-# 💻 Arpan Ghosal
+# 💻 Ayush
 
 **Aspiring Developer | Machine Learning Enthusiast | Innovator**
 
-Hi there! 👋 I'm Arpan, a curious developer passionate about solving problems through code, building innovative applications, and exploring the vast world of machine learning and AI. 🚀 Currently pursuing my studies at *KIIT University*, I love to create projects that make a difference, like my recent room video conferencing app and ride-sharing app.
+Hi there! 👋 I'm Ayush, a curious developer passionate about solving problems through code, building innovative applications, and exploring the vast world of machine learning and AI. 🚀 Currently pursuing my studies at *KIIT University*, I love to create projects that make a difference, like my recent room video conferencing app and ride-sharing app.
 
 ---
 
 ### 🚀 About Me
 
-- 🌍 Based in *Durgapur, West Bengal*, India
+- 🌍 Based in *Jamshedpur, Jharkhand*, India
 - 🎓 Studying *Computer Science at KIIT University, Bhubaneswar*
 - 🛠 Currently learning *Python, AI/ML, and backend development*
 
@@ -27,8 +27,8 @@ Hi there! 👋 I'm Arpan, a curious developer passionate about solving problems 
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpanghosal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpanghosal0160)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ayushghosal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushghosal0160)
 
 ---
 
